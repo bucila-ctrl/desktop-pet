@@ -2,6 +2,7 @@
 
 一个陪你专注与休息的桌面小狗  
 *A lightweight desktop pet for focus, breaks, and gentle motivation.*
+![Sit animation](assets/dog_sit_tr.gif)
 
 ---
 
